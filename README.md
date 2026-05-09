@@ -1,4 +1,4 @@
-# CancerSP: Analysis & Prediction of Cancer Stages
+# CancerSP: Cancer Stage Progression
 
 **CancerSP** is a web-based platform developed for the analysis of high-throughput genomics data and the prediction of cancer stages.
 The platform utilizes machine learning models trained on **TCGA Level 3 genomics data** to distinguish between **Early** and **Late** stages across six different types of cancer.
