@@ -1,0 +1,7 @@
+# The input file consist of first coloumn and gene name(HGNC official symbol) and second coloumn onward contains the patient RSEM, which means each coloumn contains the RSEM values of 38 hallmark genes of each patient.
+#Gene Name,Patient-1 RSEM,Patient-2 RSEM,Patient-3 RSEM,Patient-4 RSEM,Patient-5 RSEM
+SPOCK1,47.2189,8.9964,91.2252,15.5516
+EMX2,1250.9004,628.7509,261.8431,916.3732
+TLR9,15.2061,17.1582,38.8604,8.5974
+MNX1,0.4002,0.4998,8.7790,2.6408
+SEMA3G,1464.5858,865.1572,321.0058,57.5117
