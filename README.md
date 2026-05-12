@@ -7,7 +7,7 @@ The platform utilizes machine learning models trained on **TCGA Level 3 genomics
 
 Dataset of this tool is available on release section on the github.
 
-This dataset can also be found on Zenodo at
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20092451
 
 
 ## About the Platform
